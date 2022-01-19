@@ -14,8 +14,13 @@ import socketIOClient from "socket.io-client"
 function Room() {
     const [translations, setTranslations] = useState({
         'kmn':['Ke mana','Where to'],
+        'knp':['Kenapa','Why'],
         'gmn':['Bagaimana', 'How'],
         'bgmn':['Bagaimana', 'How'],
+        'ywd' :['Ya kali ga kuy', 'Already'],
+        'pani' : ['Apa ini', 'What is this'],
+        'gbs' : ['Gak bisa', 'Cannot do'],
+        'sape' : ['Siapa', 'Who']
     })
 
     const [translated, setTranslated] = useState([])
