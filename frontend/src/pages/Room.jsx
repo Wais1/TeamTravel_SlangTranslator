@@ -17,7 +17,7 @@ function Room() {
         'knp':['Kenapa','Why'],
         'gmn':['Bagaimana', 'How'],
         'bgmn':['Bagaimana', 'How'],
-        'ywd' :['Ya kali ga kuy', 'Already'],
+        'ywd' :['Ya sudah', 'Already'],
         'pani' : ['Apa ini', 'What is this'],
         'gbs' : ['Gak bisa', 'Cannot do'],
         'sape' : ['Siapa', 'Who']
